@@ -7,5 +7,3 @@ _Chrome extension improving musescore.com viewer_
 - Margin reduction
 
 
-![Youtube Advanced Comments](https://i.imgur.com/aonR2a0.png)
-
