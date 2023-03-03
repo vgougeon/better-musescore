@@ -1,4 +1,4 @@
-## Youtube Advanced Comments
+## Better Musescore
 _Chrome extension improving musescore.com viewer_
 
 ## Features
